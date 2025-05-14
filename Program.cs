@@ -1140,6 +1140,16 @@ namespace stealerchecker
 
     internal static class Ext
     {
+        //фывыфввввввввввввв
+        //фывыфввввввввввввв
+
+        //фывыфввввввввввввв
+        //фывыфввввввввввввв
+
+        //фывыфввввввввввввв
+        //фывыфввввввввввввв
+        //фывыфввввввввввввв
+        //фывыфввввввввввввв
         internal static void WriteLine(this StringBuilder builder, string value) => builder.Append(value).Append(Environment.NewLine);
     }
 }
